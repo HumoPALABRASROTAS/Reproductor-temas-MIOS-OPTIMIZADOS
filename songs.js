@@ -71,7 +71,7 @@ const songs = [
     titulo:   "Weight of the Rain",
     artista:  "Humo",
     duracion: "2:37",
-    portada:  "https://i.postimg.cc/MHHhN0MC/bajo-lluvia.png",
+    portada:  "https://i.postimg.cc/MHHhN0MC/bajo-la-lluvia.png",
     mp3:      "https://files.catbox.moe/l48u5b.mp3"
   },
   {
