@@ -77,16 +77,3 @@ const songs = [
     mp3: "https://files.catbox.moe/rlxl4e.mp3"
   }
 ];
-
-// -----------------------------------------------
-  //  PARA AÑADIR UNA CANCIÓN NUEVA, COPIA ESTO:
-  // -----------------------------------------------
-  // {
-  //   titulo:   "Nombre de la canción",
-  //   artista:  "Nombre del artista",
-  //   duracion: "0:00",
-  //   portada:  "https://url-de-la-imagen.jpg",
-  //   mp3:      "https://url-del-audio.mp3"
-  // } 
-// TODO ESTO ENCIMA DEL COCHETE
-
