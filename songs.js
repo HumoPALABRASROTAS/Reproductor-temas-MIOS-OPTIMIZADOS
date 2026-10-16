@@ -72,7 +72,7 @@ const songs = [
   {
     titulo: "Ya no corro como antes",
     artista: "Carlos",
-    duracion: "0:00",
+    duracion: "4:21",
     portada: "https://i.postimg.cc/1X981SX9/ya-no-corro.png",
     mp3: "https://files.catbox.moe/rlxl4e.mp3"
   }
