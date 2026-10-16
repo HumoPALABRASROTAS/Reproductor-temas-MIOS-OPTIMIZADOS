@@ -75,7 +75,7 @@ const songs = [
     mp3:      "https://files.catbox.moe/l48u5b.mp3"
   },
   
-];
+]
 
   // -----------------------------------------------
   //  PARA AÑADIR UNA CANCIÓN NUEVA, COPIA ESTO:
