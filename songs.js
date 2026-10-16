@@ -71,19 +71,18 @@ const songs = [
     titulo:   "Weight of the Rain",
     artista:  "Humo",
     duracion: "2:37",
-    portada:  "https://i.postimg.cc/MHHhN0MC/bajo-la-lluvia.png",
+    portada:  "https://i.postimg.cc/MHHhN0MC/bajo-lluvia.png",
     mp3:      "https://files.catbox.moe/l48u5b.mp3"
   },
- {
-  titulo:   "Ya no corro como antes",
-  artista:  "Carlos",
-  duracion: "0:00",
-  portada:  "https://i.postimg.cc/1X981SX9/ya-no-corro.png",
-  mp3:      "https://files.catbox.moe/rlxl4e.mp3"
+  {
+    titulo:   "Ya no corro como antes",
+    artista:  "Carlos",
+    duracion: "0:00",
+    portada:  "https://i.postimg.cc/1X981SX9/ya-no-corro.png",
+    mp3:      "https://files.catbox.moe/rlxl4e.mp3"
   }
 ];
 
-  
   // -----------------------------------------------
   //  PARA AÑADIR UNA CANCIÓN NUEVA, COPIA ESTO:
   // -----------------------------------------------
