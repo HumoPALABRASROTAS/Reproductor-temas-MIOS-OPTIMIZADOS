@@ -73,8 +73,17 @@ const songs = [
     duracion: "2:37",
     portada:  "https://i.postimg.cc/MHHhN0MC/bajo-la-lluvia.png",
     mp3:      "https://files.catbox.moe/l48u5b.mp3"
+  }.
+
+  {
+    titulo:   "Ya no corro con antes",
+    artista:  "Carlos",
+    duracion: "2:37",
+    portada:  "https://i.postimg.cc/1X981SX9/ya-no-corro.png",
+    mp3:      "https://files.catbox.moe/rlxl4e.mp3"
   }
 
+  
   // -----------------------------------------------
   //  PARA AÑADIR UNA CANCIÓN NUEVA, COPIA ESTO:
   // -----------------------------------------------
