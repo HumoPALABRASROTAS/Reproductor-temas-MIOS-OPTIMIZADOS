@@ -76,7 +76,7 @@ const songs = [
     portada: "https://i.postimg.cc/1X981SX9/ya-no-corro.png",
     mp3: "https://files.catbox.moe/rlxl4e.mp3"
   }
-];
+
 
 // -----------------------------------------------
   //  PARA AÑADIR UNA CANCIÓN NUEVA, COPIA ESTO:
