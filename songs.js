@@ -73,8 +73,8 @@ const songs = [
     duracion: "2:37",
     portada:  "https://i.postimg.cc/MHHhN0MC/bajo-la-lluvia.png",
     mp3:      "https://files.catbox.moe/l48u5b.mp3"
-  }.
- ,{
+  },
+ {
   titulo:   "Ya no corro como antes",
   artista:  "Carlos",
   duracion: "0:00",
